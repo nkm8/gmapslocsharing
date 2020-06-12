@@ -1,7 +1,7 @@
 {
   "name": "GmapsLocSharing",
   "version": "0.1",
-  "slug": "google_maps",
+  "slug": "google_maps_super",
   "description": "Google Maps Location Sharing for Hass.io",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "before",
