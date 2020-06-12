@@ -1,6 +1,6 @@
 {
   "name": "GmapsLocSharing",
-  "version": "0.2",
+  "version": "0.3",
   "slug": "google_maps_super",
   "description": "Google Maps Location Sharing for Hass.io",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
@@ -13,7 +13,7 @@
               "debug": false
             },
   "schema": {
-            "login": {"username": "str", "password": "str"},
+            "login": {"username": "str", "password": "password"},
             "country": "str?",
             "mytz": "str?",
             "debug": "bool?"
